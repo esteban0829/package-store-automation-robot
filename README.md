@@ -6,7 +6,5 @@ This robot is currently made with arduino.
 
 
 milestones
-
 line following  X
-
 image detection O
